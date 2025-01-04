@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Liam Prato (_he / him_)
+Liam Prato (_he / him_) <br />
 Amherst College '24 -- Math and English 
