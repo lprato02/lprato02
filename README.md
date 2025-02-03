@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Liam Prato (_he / him_) <br />
-Amherst College '24 -- Math and English 
+Amherst College '24  
+Mathematics and English 
